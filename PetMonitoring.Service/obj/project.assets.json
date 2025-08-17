@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Service\\PetMonitoring.Service.csproj",
+      "projectUniqueName": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Service\\PetMonitoring.Service.csproj",
       "projectName": "PetMonitoring.Service",
-      "projectPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Service\\PetMonitoring.Service.csproj",
+      "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Service\\PetMonitoring.Service.csproj",
       "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Service\\obj\\",
+      "outputPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -747,8 +747,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj": {
-              "projectPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj"
+            "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj": {
+              "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj"
             }
           }
         }

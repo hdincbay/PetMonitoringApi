@@ -1,0 +1,13 @@
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\bin\Release\net9.0\PetMonitoring.Entity.deps.json
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\bin\Release\net9.0\PetMonitoring.Entity.dll
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\bin\Release\net9.0\PetMonitoring.Entity.pdb
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.csproj.AssemblyReference.cache
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.AssemblyInfoInputs.cache
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.AssemblyInfo.cs
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.sourcelink.json
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.dll
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\refint\PetMonitoring.Entity.dll
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\PetMonitoring.Entity.pdb
+C:\Users\hdinc\OneDrive\GitHub\PetMonitoringApi\PetMonitoring.Entity\obj\Release\net9.0\ref\PetMonitoring.Entity.dll

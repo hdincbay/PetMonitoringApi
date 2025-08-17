@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj": {}
+    "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj": {
+    "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj",
         "projectName": "PetMonitoring.Entity",
-        "projectPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj",
+        "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj",
         "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Entity\\obj\\",
+        "outputPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj": {
+    "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj",
         "projectName": "PetMonitoring.Repository",
-        "projectPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj",
+        "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\PetMonitoring.Repository.csproj",
         "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Repository\\obj\\",
+        "outputPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj": {
-                "projectPath": "C:\\Users\\hdinc\\source\\repos\\PetMonitoring\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj"
+              "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj": {
+                "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\PetMonitoringApi\\PetMonitoring.Entity\\PetMonitoring.Entity.csproj"
               }
             }
           }
